@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;   
+    text-decoration: none;
+}
+
+.sharebar{
+    background-color: orange;
+    height: 30px;
+    line-height: 30px;
+    display: flex;
+    justify-content: right;
+    padding-right: 300px;
+}
+.icon a i {
+    color: white;
+}
+.navbar img{
+    background-color: aqua;
+    height: 100vh;
+    width: 100vw;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+
