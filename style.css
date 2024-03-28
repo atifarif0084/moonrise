@@ -1,0 +1,62 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;   
+    
+}
+
+.sharebar{
+    background-color: orange;
+    height: 30px;
+    line-height: 30px;
+    display: flex;
+    justify-content: right;
+    padding-right: 300px;
+}
+.icon a i {
+    color: white;
+}
+.hero{
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(people-portrait-with-plane-flying-sky.png);
+}
+.selectbar{
+    padding-top: 15px;
+    padding-left: 250px;
+    display: flex;
+    line-height: 70px;
+}
+.hero a{
+    text-decoration: none;
+    color: black;
+    font-size: smaller;
+}
+
+.hero button a{
+    color: white;
+    padding: 3px;
+    text-align: center;
+}
+.hero h3{
+    margin-top: 170px;
+    margin-left: 140px;
+    
+}
+.hero h2{
+    margin-left: 140px;
+    font-size: 57px;
+    font-weight: bold;
+}
+.hero h1{
+    margin-left: 140px;
+    font-size: 120px;
+    font-weight: bolder;
+    color: orange;
+}
+.hero2{
+    height: 100vh;
+    background-color: white;
+}
